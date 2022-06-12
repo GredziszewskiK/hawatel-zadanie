@@ -9,7 +9,7 @@ Zadanie rekrutacyjne - Junior python developer.
 4. Skonfigurować dane dostępu do api i bazy danych w pliku ```config.py```
 
 ### Uruchomienie
-Skrypt należy uruchamiać przez cli.py np. ```pyton cli.py --help```.
+Skrypt należy uruchamiać przez cli.py np. ```python cli.py --help```.
 
 Dostępne są dwie komendy.
 1. ```update-prices``` do aktualizacji cen w dolarach i euro. Za pomocą opcji można wskazać które ceny nalerzy zaktualizować.
